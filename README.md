@@ -6,9 +6,13 @@ Após isso crie a tabela Funcionarios, com as variáveis: id_funcionario, nome_f
 data_admissao e id_empresa.
 Insira pelo menos três empresas na tabela Empresa, e 6 funcionários na tabela funcionários
 sendo que cada empresa deve ter dois funcionários.
-selecione o nome da empresa e de seus respectivos funcionários utilizando INNER JOIN.
+Selecione o nome da empresa e de seus respectivos funcionários utilizando INNER JOIN.
+
+
 2- Utilizando FULL JOIN na tabela do exercício anterior, selecione todos os registros
 da tabela Empresa e da tabela Funcionários.
+
+
 3- Explique quando usar cada um dos quatro tipos de JOIN (INNER JOIN, FULL
 JOIN, LEFT JOIN e RIGHT JOIN).
 
